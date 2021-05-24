@@ -1,0 +1,8 @@
+Data scraping twitter
+
+1. membuat token API
+2. import token API, secret key API
+3. autentifikasi (auth)
+4. mencari kata,kota, dll
+
+https://dev.twitter.com/apps/new
