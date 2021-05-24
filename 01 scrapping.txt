@@ -1,4 +1,4 @@
 [twitter]
 
-api_key = ola1Y7yBOKDfIDYYwnvhFNXmO
-api_secret_key = anRHttU6yxmGzgSw0ot5W1me13XQNWkV15xwHes2DEHSDXOtA2
+apikey = ola1Y7yBOKDfIDYYwnvhFNXmO
+apisecretkey = anRHttU6yxmGzgSw0ot5W1me13XQNWkV15xwHes2DEHSDXOtA2
