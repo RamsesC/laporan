@@ -1,8 +1,4 @@
-Data scraping twitter
+[twitter]
 
-1. membuat token API
-2. import token API, secret key API
-3. autentifikasi (auth)
-4. mencari kata,kota, dll
-
-https://dev.twitter.com/apps/new
+api_key = ola1Y7yBOKDfIDYYwnvhFNXmO
+api_secret_key = anRHttU6yxmGzgSw0ot5W1me13XQNWkV15xwHes2DEHSDXOtA2
